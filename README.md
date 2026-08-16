@@ -1,6 +1,6 @@
 <div align="center">
 
-# Zidan Ali
+# Zidan
 
 ### Java Full-Stack Engineer · Spring Boot · REST APIs · Data-Centric Systems
 
